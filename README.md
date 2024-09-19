@@ -55,26 +55,6 @@ Tecnologias Utilizadas 🖥️
 -  `Figma`
 -  `Visual Studio Code`
 
-# Autores
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vivikamizono">
-        <img loading="lazy" src="https://avatars.githubusercontent.com/u/101277316?v=4" width=115 alt="Vitória Magar Kamizono">
-        <br>
-        <sub>Vitória Magar Kamizono</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Vit-azevas">
-        <img loading="lazy" src="https://avatars.githubusercontent.com/u/130508410?v=4" width=115 alt="Vitor Azevedo">
-        <br>
-        <sub>Vitor Azevedo</sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <h1 align="center"> Conclusão 📕 </h1> 
 O projeto foi realizado com o intuito de ajudar a sociedade e o meio ambiente, e eu creio que ele realmente é capaz disso, foi nosso primeiro projeto do 0 e que podemos ter uma visão de como é colocar a mão na massa, pensar e raciocinar sobre o que deveriámos fazer naquele momento, por mais simples que tenha ficado o projeto, ele pode ser melhorado com o tempo até chegar a realmente ser utilizado por uma empresa.
